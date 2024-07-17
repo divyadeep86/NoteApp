@@ -22,13 +22,20 @@ This is a simple note-taking application built with Kotlin and Jetpack Compose. 
 
 Here are some screenshots of the application:
 
-
+<table>
+  <tr>
+    <td><img src="https://github.com/divyadeep86/NoteApp/blob/main/images/Screenshot_20240717_153807.png" width="300" /></td>
+    <td><img src="https://github.com/divyadeep86/NoteApp/blob/main/images/Screenshot_20240717_153842.png" width="300"/></td>
+    <td><img src="https://github.com/divyadeep86/NoteApp/blob/main/images/Screenshot_20240717_153921.png" width="300"/></td>
+<td><img src="https://github.com/divyadeep86/NoteApp/blob/main/images/Screenshot_20240717_154003.png" width="300"/></td>
+  </tr>
+</table>
 
 ## Video Demonstration
 
 Here is a video demonstration of the application:
 
-
+https://github.com/user-attachments/assets/06c50f10-018d-42c5-a502-8f9b842d25fa
 
 ## Getting Started
 
